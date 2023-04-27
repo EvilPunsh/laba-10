@@ -1,0 +1,5 @@
+<Directory "/var/www/html1/.git/">
+    <RequireAll>
+        Require user sitnikova
+    </RequireAll>
+</Directory>
