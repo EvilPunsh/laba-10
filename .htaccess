@@ -1,5 +1,5 @@
 <Directory "/var/www/html1/.git/">
     <RequireAll>
-        Require user sitnikova
+        Require all denied
     </RequireAll>
 </Directory>
